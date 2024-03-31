@@ -1,3 +1,3 @@
 # taxometer
  
-DEMO: https://taxometer.fly.dev/
+Demo: https://taxometer.fly.dev/
